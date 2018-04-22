@@ -69,5 +69,6 @@
 	<classpathentry kind="lib" path="src/stormlib/slf4j-api-1.7.7.jar"/>
 	<classpathentry kind="lib" path="src/stormlib/storm-core-1.0.2.jar"/>
 	<classpathentry kind="lib" path="src/stormlib/storm-rename-hack-1.0.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
