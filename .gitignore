@@ -1,0 +1,4 @@
+/bin/mylib/*.jar
+/bin/rpc/*.class
+*.class
+*.jar
